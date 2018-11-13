@@ -1,5 +1,6 @@
-def reverse_each_word(x)
-  x.each do |word|
-    word.reverse 
+def reverse_each_word(string)
+  array = string.to_a 
+  
+
   end
 end
